@@ -1,2 +1,2 @@
 # can_test
-can test code for embedded platform ,code by C language
+can-interface testing codes for embedded platform ,coding by C lang
